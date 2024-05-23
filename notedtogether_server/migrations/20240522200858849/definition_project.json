@@ -1,0 +1,19 @@
+{
+  "moduleName": "notedtogether",
+  "tables": [],
+  "installedModules": [
+    {
+      "module": "serverpod",
+      "version": "20240516151843329"
+    },
+    {
+      "module": "serverpod_auth",
+      "version": "20240520102713718"
+    },
+    {
+      "module": "notedtogether",
+      "version": "20240522193700764"
+    }
+  ],
+  "migrationApiVersion": 1
+}
